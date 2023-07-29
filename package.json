@@ -1,0 +1,11 @@
+{
+  "name": "tetris-electron",
+  "version": "1.0.0",
+  "description": "A simple version of tetris game",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Abdellah",
+  "license": "ISC"
+}
